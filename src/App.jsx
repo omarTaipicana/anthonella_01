@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import "./App.css";
 
-const EVENT_DATE = new Date("2026-09-20T12:00:00-05:00");
+const EVENT_DATE = new Date("2026-09-20T11:00:00-05:00");
 const MAPS_URL = "https://maps.app.goo.gl/GXnrTvAMZg9T9PEq8";
 const WHATSAPP_URL =
   "https://wa.me/593939594833?text=Hola%2C%20confirmo%20mi%20asistencia%20al%20primer%20cumplea%C3%B1os%20de%20Anthonella%20Geraldine.%20Mi%20nombre%20es%3A%20";
@@ -199,7 +199,7 @@ function App() {
                 <span className="icon-wrap"><CalendarIcon /></span>
                 <h3>Fecha y hora</h3>
                 <p>Domingo, 20 de septiembre</p>
-                <strong>12:00 p. m.</strong>
+                <strong>11:00 p. m.</strong>
                 <a className="text-link" href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Primer+a%C3%B1ito+de+Anthonella+Geraldine&dates=20260920T170000Z/20260920T210000Z&details=Celebraci%C3%B3n+del+primer+cumplea%C3%B1os+de+Anthonella&location=REVIVALS%2C+Calle+Tom%C3%A1s+de+Berlanga+e+Isla+R%C3%A1bida%2C+Barrio+Gualund%C3%BAn" target="_blank" rel="noreferrer">
                   Agregar al calendario
                 </a>
