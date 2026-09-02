@@ -199,7 +199,7 @@ function App() {
                 <span className="icon-wrap"><CalendarIcon /></span>
                 <h3>Fecha y hora</h3>
                 <p>Domingo, 20 de septiembre</p>
-                <strong>11:00 p. m.</strong>
+                <strong>11:00 a. m.</strong>
                 <a className="text-link" href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Primer+a%C3%B1ito+de+Anthonella+Geraldine&dates=20260920T170000Z/20260920T210000Z&details=Celebraci%C3%B3n+del+primer+cumplea%C3%B1os+de+Anthonella&location=REVIVALS%2C+Calle+Tom%C3%A1s+de+Berlanga+e+Isla+R%C3%A1bida%2C+Barrio+Gualund%C3%BAn" target="_blank" rel="noreferrer">
                   Agregar al calendario
                 </a>
